@@ -6,7 +6,7 @@ This block has 3 projects :
 - Conversion Rate Challenge
 - Uber Pickups
 
-> Video link of the project : 👉  👈
+> Video link of the project : 👉 https://share.vidyard.com/watch/8H9esoGwn7JZF9k7oJBjsN? 👈
 
 Contact : Lise Gnos  
 email : lise.gnos@gmail.com
