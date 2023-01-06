@@ -23,7 +23,7 @@ The goal is to reduce overfitting by using Ridge or Lasso.
 
 This project aims at predicting if a web user will subscribe to a newsletter.
 
-> Notebook : 'Conversion_rate/projet_conversion_LG_logreg7fip.ipynb'
+> Notebook : 'Conversion_rate/projet_conversion_LG_logreg7fip.ipynb'  
 > Output of the notebook : 'Conversion_rate/src/conversion_data_test_predictions_Lise-model11.csv'
 
 The conditions were similar to a kaggle competition : the model was applied to a test file with no labels and sent to our teacher.  
